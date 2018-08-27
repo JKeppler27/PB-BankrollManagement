@@ -1,0 +1,19 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.floodline.android.pokerbuddy_bankrollmanagement.fragments.AddSessionTypeFragment">
+
+    <TextView
+        android:id="@+id/txtVwFragTest1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Fragment 1 Test."/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/btnTestFrags2"
+        android:text="Show Me Frag 2!"/>
+
+</FrameLayout>
